@@ -1,0 +1,13 @@
+1-logoyu sol üst köþede kullandým 
+2-sol kolon dayalý menü oluþturdum
+3-rounded corners þeklini daha yumuþak bir görüntü elde etmek için kullandým.
+4-monochoromatic = tek rengin ayný tonlarýný içerik kýsmýnda kullandým
+5-sol alt köþeye üyelik kutucuðu koydum ve içine lavivert kaydol butonu koyarak vurgu yaptým
+6-görme engellilerin de kullanabilmesi için sesli kitap bloðu oluþturdum
+7-içeriðe menüyle baðdaþtýrarak görüntü ekledim
+8-sayfa altlýðýný yorum ve tavsiylere ayýrdým
+9-görme engellilerin de yararlanabileceði bir site oluþturacaðým için sloganýmý duyan gözler için yaptým
+10-sað tarafta dekoratif denebilecek bir font kullanarak tavsiye kitap bölümü oluþturdum kitabýn daha ön planda durmasý için soðuk ve soluk bir renk tonu kullandým
+11-ilerleyen zamanlarda her blog kullanýcýyý farklý bir sayfaya yönlendirecek ve hepsinin kendine uygun bir tasarýmý olacak ana sayfa olarak sade ve göz yormayan bir tasarým yapmak istedim
+12-hedef kitlesi 15 yaþ ve üzeri burda ne kadar az gözükse de bloklarýn içerisin de herkese hitap eden þeyler bulunacak 
+13-içerikte kutucuklar içinde bulunan fotoðraflarý simetrik yerleþtirdim 

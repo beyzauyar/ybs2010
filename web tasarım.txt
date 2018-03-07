@@ -1,0 +1,8 @@
+1-menü olmayan bir tasarým kullandým çünkü 4 platform kullanýcýlarý baþka bir sayfaya yönlendirecek
+2-ikonlarda proporsiyon tekniði kullandým 
+3-tecrit tekniðini kullandým.Sayfanýn ortasýndaki tahtayý yalnýz býrakýp odak noktasý olmasýný saðlayarak 
+4-proximity kullandým arka planda bulunan fotoðraflarý birleþtirerek sanki tek bir resimmiþ gibi görünmesini saðlayarak
+5-köþelerde hem yatay hem dikey simetri kullandým.
+6-sýcak ve soðuk renkleri bir arada kullandým
+7-arka planý soldurarak diðer objeleri vurguladým
+
